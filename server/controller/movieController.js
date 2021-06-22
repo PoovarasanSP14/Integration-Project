@@ -83,3 +83,4 @@ module.exports = {
     findByMovieId,
     createMovie
 }
+
